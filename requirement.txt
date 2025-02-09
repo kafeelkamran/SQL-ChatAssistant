@@ -1,0 +1,9 @@
+
+fastapi
+uvicorn
+sqlite3
+
+
+#frontend
+gradio
+requests
